@@ -1,0 +1,4 @@
+the cost of sacle0is: 8.5e-05second
+the cost of sacle1is: 7.8e-05second
+the cost of sacle2is: 0.000179second
+the cost of sacle3is: 0.000259second

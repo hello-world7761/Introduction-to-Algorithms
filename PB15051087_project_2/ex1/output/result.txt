@@ -1,0 +1,4 @@
+the order of sacle0is: (A0(A1(A2(A3(A4A5)))))
+the order of sacle1is: (A0(A1A2)((A3((A4(A5A6))A7))((A8A9)A10)))
+the order of sacle2is: (A0(A1(A2((((A3((A4(A5A6))A7))((A8A9)A10))A11)(A12(A13A14))))(A15(A16((A17A18)A19))))A20)
+the order of sacle3is: (((A0(A1(A2(A3((A4(A5A6))A7))((A8A9)A10))A11)(A12(A13A14)))(A15(A16((A17A18)A19))))(A20(A21(A22(A23(A24(A25(A26(A27(A28(A29A30)))))))))))

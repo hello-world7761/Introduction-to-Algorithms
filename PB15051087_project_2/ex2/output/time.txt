@@ -1,0 +1,8 @@
+the cost of time in scale 0is(normal_solution): 9.8e-05 second
+the cost of time in scale 1is(normal_solution): 7.2e-05 second
+the cost of time in scale 2is(normal_solution): 0.000122 second
+the cost of time in scale 3is(normal_solution): 0.000199 second
+the cost of time in scale 0is(FFT_Solution): 0.000101 second
+the cost of time in scale 1is(FFT_Solution): 0.000137 second
+the cost of time in scale 2is(FFT_Solution): 0.000214 second
+the cost of time in scale 3is(FFT_Solution): 0.000342 second

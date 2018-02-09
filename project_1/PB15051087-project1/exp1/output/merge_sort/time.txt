@@ -1,0 +1,6 @@
+n=2 takes 0.000016 seconds
+n=5 takes 0.000037 seconds
+n=8 takes 0.000207 seconds
+n=11 takes 0.002008 seconds
+n=14 takes 0.018859 seconds
+n=17 takes 0.201521 seconds

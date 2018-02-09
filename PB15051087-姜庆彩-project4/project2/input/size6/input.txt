@@ -1,0 +1,2048 @@
+1  ->  8   weight:189
+1  -> 34   weight:156
+1  -> 36   weight:37
+1  -> 50   weight:206
+1  -> 88   weight:244
+1  ->224   weight:252
+2  -> 41   weight:256
+2  ->134   weight:76
+2  ->152   weight:33
+2  ->161   weight:33
+2  ->204   weight:39
+2  ->213   weight:105
+2  ->216   weight:83
+2  ->225   weight:16
+2  ->255   weight:119
+3  -> 21   weight:103
+3  -> 43   weight:117
+3  -> 66   weight:6
+3  ->204   weight:220
+3  ->256   weight:174
+4  ->  7   weight:24
+4  -> 20   weight:6
+4  -> 35   weight:249
+4  -> 45   weight:141
+4  -> 73   weight:177
+4  -> 76   weight:204
+4  ->124   weight:239
+4  ->149   weight:106
+4  ->204   weight:49
+4  ->230   weight:114
+4  ->247   weight:236
+4  ->250   weight:68
+5  -> 59   weight:102
+5  -> 69   weight:154
+5  ->107   weight:3
+5  ->114   weight:200
+5  ->172   weight:11
+5  ->219   weight:161
+6  -> 14   weight:129
+6  -> 38   weight:40
+6  -> 53   weight:179
+6  -> 60   weight:83
+6  -> 96   weight:53
+6  ->138   weight:12
+6  ->210   weight:177
+6  ->213   weight:76
+6  ->247   weight:117
+7  -> 30   weight:169
+7  -> 80   weight:149
+7  ->118   weight:188
+7  ->210   weight:249
+7  ->231   weight:50
+7  ->248   weight:187
+8  ->  2   weight:79
+8  ->  3   weight:1
+8  -> 23   weight:102
+8  -> 47   weight:68
+8  -> 57   weight:34
+8  -> 83   weight:82
+8  -> 87   weight:116
+8  -> 90   weight:112
+8  ->115   weight:188
+8  ->127   weight:251
+8  ->153   weight:58
+8  ->162   weight:121
+8  ->172   weight:20
+8  ->205   weight:117
+8  ->218   weight:98
+9  -> 15   weight:78
+9  -> 22   weight:118
+9  -> 54   weight:248
+9  -> 72   weight:162
+9  ->117   weight:241
+9  ->120   weight:7
+9  ->138   weight:74
+9  ->209   weight:85
+9  ->216   weight:173
+9  ->223   weight:182
+9  ->234   weight:159
+10 -> 20   weight:65
+10 -> 50   weight:133
+10 ->118   weight:155
+10 ->127   weight:28
+10 ->147   weight:16
+10 ->197   weight:233
+11 -> 14   weight:7
+11 -> 17   weight:59
+11 ->130   weight:190
+11 ->164   weight:231
+11 ->201   weight:56
+11 ->219   weight:152
+11 ->246   weight:76
+12 -> 53   weight:134
+12 -> 63   weight:53
+12 ->113   weight:255
+12 ->128   weight:13
+12 ->144   weight:176
+12 ->168   weight:107
+12 ->192   weight:11
+12 ->210   weight:248
+13 -> 29   weight:52
+13 -> 78   weight:27
+13 ->128   weight:141
+13 ->133   weight:157
+13 ->167   weight:151
+13 ->168   weight:23
+13 ->186   weight:14
+13 ->246   weight:188
+14 ->  3   weight:145
+14 ->  7   weight:154
+14 -> 16   weight:116
+14 -> 32   weight:114
+14 -> 67   weight:240
+14 -> 86   weight:152
+14 ->100   weight:220
+14 ->127   weight:92
+14 ->132   weight:201
+14 ->177   weight:213
+14 ->189   weight:107
+14 ->200   weight:235
+14 ->234   weight:152
+14 ->241   weight:31
+14 ->248   weight:160
+15 ->  3   weight:107
+15 -> 75   weight:194
+15 -> 95   weight:78
+15 ->159   weight:208
+15 ->209   weight:129
+16 -> 75   weight:108
+16 ->100   weight:154
+16 ->138   weight:139
+16 ->145   weight:200
+16 ->148   weight:213
+16 ->169   weight:188
+16 ->174   weight:35
+16 ->182   weight:165
+16 ->190   weight:216
+16 ->194   weight:165
+16 ->199   weight:196
+17 -> 11   weight:45
+17 -> 37   weight:180
+17 -> 67   weight:52
+17 -> 94   weight:35
+17 -> 97   weight:176
+17 ->205   weight:121
+17 ->209   weight:244
+17 ->214   weight:47
+17 ->226   weight:250
+18 -> 42   weight:152
+18 -> 59   weight:156
+18 ->106   weight:102
+18 ->119   weight:109
+18 ->130   weight:247
+18 ->161   weight:42
+18 ->198   weight:145
+18 ->226   weight:121
+18 ->233   weight:159
+18 ->237   weight:114
+18 ->240   weight:202
+19 ->  2   weight:224
+19 -> 69   weight:145
+19 -> 97   weight:70
+19 ->129   weight:19
+19 ->132   weight:93
+19 ->133   weight:68
+19 ->196   weight:228
+19 ->223   weight:162
+19 ->225   weight:94
+20 -> 13   weight:34
+20 -> 79   weight:228
+20 ->161   weight:64
+20 ->175   weight:128
+20 ->215   weight:166
+20 ->244   weight:163
+20 ->252   weight:82
+21 -> 33   weight:170
+21 -> 54   weight:128
+21 -> 83   weight:202
+21 ->121   weight:34
+21 ->175   weight:131
+21 ->192   weight:205
+22 -> 12   weight:191
+22 -> 21   weight:167
+22 -> 25   weight:118
+22 ->151   weight:131
+23 -> 33   weight:56
+23 -> 36   weight:122
+23 -> 92   weight:253
+23 ->248   weight:93
+24 -> 21   weight:137
+24 -> 45   weight:138
+24 -> 85   weight:190
+24 ->123   weight:210
+24 ->191   weight:119
+24 ->248   weight:59
+25 ->  6   weight:164
+25 -> 75   weight:221
+25 -> 83   weight:56
+25 -> 91   weight:92
+25 ->111   weight:253
+25 ->117   weight:243
+25 ->120   weight:159
+25 ->136   weight:149
+25 ->142   weight:177
+25 ->173   weight:243
+25 ->207   weight:63
+25 ->230   weight:234
+26 -> 57   weight:129
+26 -> 81   weight:95
+26 ->107   weight:30
+26 ->112   weight:241
+26 ->170   weight:152
+26 ->174   weight:153
+26 ->202   weight:237
+26 ->214   weight:53
+27 -> 17   weight:18
+27 ->185   weight:119
+27 ->244   weight:211
+28 -> 23   weight:148
+28 -> 94   weight:200
+28 ->148   weight:158
+28 ->212   weight:206
+28 ->225   weight:149
+29 -> 31   weight:185
+29 ->112   weight:14
+29 ->162   weight:145
+29 ->209   weight:51
+29 ->227   weight:21
+29 ->234   weight:14
+29 ->238   weight:132
+30 ->  3   weight:253
+30 -> 27   weight:7
+30 -> 29   weight:184
+30 -> 46   weight:239
+30 -> 62   weight:102
+30 -> 63   weight:198
+30 ->151   weight:123
+30 ->161   weight:25
+30 ->168   weight:15
+30 ->175   weight:42
+30 ->198   weight:141
+31 -> 92   weight:102
+31 -> 98   weight:17
+31 ->119   weight:181
+31 ->142   weight:20
+31 ->167   weight:152
+32 ->  9   weight:60
+32 -> 47   weight:230
+32 ->139   weight:212
+32 ->142   weight:196
+32 ->156   weight:252
+32 ->254   weight:66
+33 ->  1   weight:154
+33 -> 50   weight:106
+33 -> 57   weight:198
+33 -> 65   weight:114
+33 -> 90   weight:66
+33 ->192   weight:162
+33 ->210   weight:83
+34 -> 65   weight:212
+34 -> 77   weight:28
+34 -> 81   weight:110
+34 -> 85   weight:90
+34 -> 87   weight:167
+34 ->128   weight:139
+34 ->149   weight:183
+34 ->169   weight:247
+34 ->194   weight:-1
+34 ->201   weight:87
+34 ->218   weight:251
+34 ->234   weight:178
+34 ->241   weight:48
+35 ->  6   weight:68
+35 -> 33   weight:196
+35 -> 45   weight:36
+35 -> 70   weight:98
+35 -> 74   weight:131
+35 ->105   weight:185
+35 ->118   weight:115
+35 ->245   weight:43
+36 ->127   weight:198
+36 ->184   weight:124
+36 ->220   weight:9
+37 ->172   weight:18
+37 ->173   weight:17
+37 ->188   weight:235
+37 ->202   weight:117
+37 ->208   weight:227
+37 ->220   weight:143
+38 ->  1   weight:110
+38 ->  7   weight:245
+38 -> 46   weight:35
+38 -> 48   weight:141
+38 -> 70   weight:218
+38 -> 73   weight:211
+38 -> 90   weight:220
+38 -> 92   weight:141
+38 ->117   weight:12
+38 ->119   weight:248
+38 ->158   weight:67
+38 ->184   weight:65
+38 ->212   weight:136
+38 ->237   weight:25
+39 -> 22   weight:245
+39 -> 37   weight:76
+39 -> 69   weight:91
+39 -> 88   weight:241
+39 ->100   weight:123
+39 ->106   weight:98
+39 ->132   weight:219
+39 ->164   weight:200
+39 ->176   weight:41
+39 ->196   weight:46
+39 ->199   weight:211
+39 ->253   weight:106
+40 ->  1   weight:50
+40 ->  5   weight:87
+40 ->130   weight:219
+40 ->164   weight:80
+40 ->174   weight:35
+40 ->177   weight:138
+41 -> 36   weight:104
+41 -> 40   weight:112
+41 -> 85   weight:21
+41 -> 90   weight:22
+41 ->195   weight:242
+42 -> 89   weight:205
+42 ->125   weight:154
+42 ->129   weight:109
+42 ->147   weight:148
+42 ->153   weight:189
+43 -> 18   weight:143
+43 -> 37   weight:59
+43 -> 41   weight:104
+43 -> 48   weight:126
+43 -> 66   weight:61
+43 -> 99   weight:99
+43 ->126   weight:146
+43 ->128   weight:165
+43 ->156   weight:171
+43 ->192   weight:236
+43 ->205   weight:144
+43 ->208   weight:144
+43 ->229   weight:181
+44 ->  3   weight:114
+44 -> 29   weight:43
+44 ->104   weight:145
+44 ->145   weight:2
+44 ->157   weight:156
+44 ->164   weight:255
+44 ->169   weight:256
+44 ->180   weight:78
+44 ->187   weight:67
+44 ->193   weight:65
+44 ->210   weight:56
+44 ->238   weight:153
+45 ->  5   weight:101
+45 -> 25   weight:75
+45 -> 46   weight:6
+45 ->199   weight:116
+45 ->254   weight:129
+46 -> 56   weight:172
+46 -> 57   weight:194
+46 -> 93   weight:181
+46 -> 97   weight:58
+46 ->104   weight:256
+46 ->116   weight:167
+46 ->130   weight:53
+46 ->136   weight:212
+46 ->163   weight:49
+46 ->183   weight:175
+47 -> 46   weight:124
+47 -> 80   weight:118
+47 ->120   weight:63
+47 ->135   weight:116
+47 ->145   weight:134
+47 ->252   weight:102
+47 ->254   weight:142
+48 ->  1   weight:66
+48 -> 16   weight:175
+48 ->109   weight:219
+48 ->137   weight:218
+48 ->199   weight:163
+48 ->203   weight:139
+48 ->205   weight:233
+48 ->217   weight:226
+48 ->239   weight:51
+49 -> 65   weight:185
+49 -> 81   weight:37
+49 ->101   weight:3
+49 ->159   weight:117
+49 ->182   weight:216
+49 ->201   weight:9
+49 ->247   weight:115
+50 -> 29   weight:220
+50 -> 43   weight:247
+50 -> 62   weight:87
+50 -> 73   weight:144
+50 ->130   weight:234
+50 ->142   weight:86
+50 ->156   weight:186
+51 -> 20   weight:24
+51 ->168   weight:178
+51 ->211   weight:206
+51 ->220   weight:76
+52 -> 16   weight:153
+52 -> 61   weight:109
+52 -> 97   weight:182
+52 ->165   weight:84
+52 ->198   weight:215
+52 ->199   weight:160
+52 ->249   weight:196
+52 ->253   weight:255
+52 ->254   weight:168
+53 -> 10   weight:122
+53 -> 30   weight:22
+53 -> 44   weight:213
+53 -> 55   weight:154
+53 -> 60   weight:138
+53 ->106   weight:133
+53 ->124   weight:3
+53 ->205   weight:111
+53 ->220   weight:98
+54 -> 41   weight:106
+54 -> 60   weight:56
+54 ->156   weight:224
+54 ->237   weight:190
+54 ->246   weight:217
+55 ->112   weight:81
+55 ->148   weight:69
+55 ->149   weight:17
+55 ->155   weight:109
+55 ->160   weight:189
+55 ->212   weight:4
+55 ->220   weight:20
+55 ->239   weight:154
+56 ->  8   weight:54
+56 -> 67   weight:21
+56 ->137   weight:212
+56 ->150   weight:202
+56 ->180   weight:108
+56 ->236   weight:201
+57 -> 11   weight:74
+57 -> 30   weight:194
+57 -> 77   weight:226
+57 ->171   weight:37
+57 ->183   weight:35
+57 ->192   weight:240
+57 ->197   weight:9
+57 ->203   weight:232
+57 ->229   weight:54
+58 -> 97   weight:59
+58 ->103   weight:116
+58 ->119   weight:18
+58 ->164   weight:209
+58 ->165   weight:150
+58 ->168   weight:254
+58 ->249   weight:236
+59 -> 56   weight:78
+59 -> 62   weight:149
+59 ->147   weight:164
+59 ->167   weight:255
+59 ->194   weight:237
+59 ->218   weight:88
+60 -> 17   weight:161
+60 -> 22   weight:11
+60 -> 34   weight:6
+60 -> 48   weight:241
+60 -> 99   weight:114
+61 ->  3   weight:222
+61 -> 70   weight:39
+61 ->155   weight:244
+61 ->225   weight:206
+61 ->249   weight:7
+62 ->  5   weight:73
+62 -> 76   weight:145
+62 ->142   weight:189
+62 ->185   weight:109
+62 ->207   weight:160
+62 ->208   weight:88
+62 ->212   weight:109
+63 -> 16   weight:225
+63 -> 83   weight:136
+63 ->156   weight:141
+63 ->159   weight:83
+63 ->174   weight:98
+63 ->199   weight:150
+64 ->  2   weight:138
+64 ->  7   weight:230
+64 -> 20   weight:29
+64 -> 26   weight:188
+64 -> 43   weight:149
+64 -> 58   weight:136
+64 -> 71   weight:41
+64 -> 98   weight:119
+64 ->141   weight:239
+64 ->188   weight:237
+64 ->211   weight:79
+64 ->213   weight:154
+64 ->224   weight:140
+64 ->225   weight:165
+65 ->  6   weight:82
+65 -> 11   weight:156
+65 -> 27   weight:220
+65 -> 42   weight:71
+65 -> 56   weight:-1
+65 -> 90   weight:58
+65 ->182   weight:20
+65 ->249   weight:174
+66 -> 27   weight:91
+66 -> 55   weight:233
+66 -> 62   weight:77
+66 ->112   weight:211
+66 ->175   weight:31
+66 ->229   weight:220
+66 ->241   weight:234
+66 ->246   weight:121
+67 ->  9   weight:42
+67 -> 64   weight:10
+67 -> 76   weight:191
+67 -> 87   weight:2
+67 -> 97   weight:250
+67 ->114   weight:73
+67 ->116   weight:231
+67 ->120   weight:235
+67 ->162   weight:158
+67 ->174   weight:246
+67 ->180   weight:53
+67 ->244   weight:61
+68 -> 89   weight:245
+68 ->119   weight:75
+68 ->173   weight:129
+69 ->  9   weight:41
+69 -> 40   weight:87
+69 ->103   weight:176
+69 ->114   weight:58
+69 ->169   weight:104
+69 ->179   weight:177
+70 -> 26   weight:164
+70 -> 47   weight:240
+70 -> 56   weight:255
+70 ->131   weight:91
+70 ->180   weight:58
+70 ->195   weight:68
+71 -> 19   weight:131
+71 -> 22   weight:200
+71 ->148   weight:99
+71 ->170   weight:229
+71 ->176   weight:223
+71 ->238   weight:72
+72 -> 51   weight:74
+72 -> 81   weight:97
+72 -> 82   weight:86
+72 -> 94   weight:15
+72 ->145   weight:251
+72 ->178   weight:189
+72 ->190   weight:145
+72 ->213   weight:163
+72 ->230   weight:78
+73 -> 55   weight:118
+73 ->136   weight:92
+73 ->140   weight:3
+73 ->156   weight:51
+73 ->164   weight:79
+73 ->168   weight:23
+73 ->172   weight:-3
+73 ->194   weight:187
+73 ->209   weight:86
+73 ->238   weight:105
+74 ->160   weight:182
+74 ->169   weight:196
+74 ->185   weight:65
+75 -> 60   weight:87
+75 -> 78   weight:111
+75 -> 98   weight:170
+75 ->100   weight:5
+75 ->143   weight:158
+75 ->154   weight:181
+75 ->160   weight:79
+75 ->168   weight:75
+75 ->226   weight:70
+76 -> 28   weight:185
+76 ->124   weight:177
+76 ->125   weight:4
+76 ->163   weight:2
+76 ->165   weight:239
+76 ->183   weight:189
+76 ->218   weight:97
+77 -> 10   weight:173
+77 -> 20   weight:114
+77 -> 37   weight:236
+77 ->107   weight:124
+77 ->117   weight:248
+77 ->122   weight:40
+77 ->158   weight:83
+77 ->175   weight:214
+77 ->183   weight:228
+77 ->194   weight:213
+77 ->200   weight:33
+77 ->206   weight:4
+77 ->224   weight:144
+77 ->230   weight:36
+77 ->237   weight:218
+78 ->  7   weight:56
+78 -> 66   weight:18
+78 -> 71   weight:124
+78 -> 94   weight:254
+78 ->185   weight:170
+78 ->189   weight:11
+78 ->254   weight:93
+79 ->116   weight:126
+79 ->160   weight:65
+79 ->193   weight:178
+79 ->202   weight:160
+79 ->204   weight:172
+80 -> 17   weight:172
+80 -> 43   weight:192
+80 -> 60   weight:169
+80 -> 88   weight:206
+80 ->151   weight:117
+80 ->167   weight:146
+80 ->170   weight:11
+80 ->184   weight:173
+80 ->242   weight:2
+81 ->  3   weight:155
+81 -> 90   weight:199
+81 ->102   weight:45
+81 ->110   weight:89
+81 ->143   weight:104
+81 ->166   weight:135
+81 ->250   weight:44
+82 -> 57   weight:231
+82 -> 77   weight:118
+82 -> 88   weight:25
+82 ->160   weight:14
+82 ->167   weight:197
+82 ->173   weight:128
+82 ->184   weight:212
+82 ->219   weight:102
+82 ->226   weight:9
+82 ->238   weight:240
+82 ->249   weight:89
+83 -> 32   weight:140
+83 -> 42   weight:40
+83 -> 86   weight:7
+83 -> 89   weight:196
+83 ->106   weight:120
+83 ->109   weight:11
+83 ->150   weight:89
+83 ->172   weight:151
+83 ->187   weight:4
+83 ->234   weight:24
+83 ->245   weight:228
+84 -> 20   weight:137
+84 -> 25   weight:3
+84 -> 83   weight:58
+84 ->117   weight:130
+84 ->122   weight:103
+84 ->201   weight:192
+85 -> 17   weight:82
+85 ->181   weight:143
+85 ->194   weight:129
+86 -> 75   weight:255
+86 ->161   weight:115
+87 -> 61   weight:61
+87 -> 91   weight:90
+87 -> 95   weight:177
+87 -> 96   weight:79
+87 ->111   weight:222
+87 ->147   weight:35
+87 ->200   weight:254
+88 ->  6   weight:253
+88 -> 57   weight:88
+88 ->203   weight:10
+88 ->227   weight:118
+88 ->247   weight:132
+89 ->  9   weight:107
+89 -> 31   weight:65
+89 -> 40   weight:210
+89 -> 51   weight:165
+89 -> 61   weight:160
+89 ->170   weight:37
+89 ->202   weight:156
+89 ->229   weight:211
+89 ->253   weight:107
+90 -> 64   weight:255
+90 -> 72   weight:245
+90 -> 78   weight:35
+90 -> 91   weight:219
+90 ->100   weight:31
+90 ->108   weight:6
+90 ->114   weight:207
+90 ->167   weight:133
+90 ->171   weight:211
+90 ->205   weight:109
+90 ->219   weight:18
+90 ->223   weight:214
+91 -> 23   weight:50
+91 -> 78   weight:210
+91 ->115   weight:191
+91 ->120   weight:157
+91 ->137   weight:29
+91 ->154   weight:125
+91 ->201   weight:62
+92 -> 51   weight:37
+92 -> 55   weight:31
+92 -> 85   weight:15
+92 -> 94   weight:109
+92 ->105   weight:110
+92 ->112   weight:90
+92 ->114   weight:132
+92 ->140   weight:189
+92 ->200   weight:106
+92 ->206   weight:145
+92 ->220   weight:81
+92 ->247   weight:18
+93 ->  3   weight:10
+93 -> 30   weight:71
+93 -> 73   weight:73
+93 ->210   weight:64
+93 ->225   weight:166
+94 -> 50   weight:167
+94 ->128   weight:154
+94 ->134   weight:154
+94 ->176   weight:84
+95 ->  2   weight:4
+95 -> 18   weight:211
+95 -> 70   weight:117
+95 -> 72   weight:69
+95 ->102   weight:68
+95 ->124   weight:81
+95 ->126   weight:9
+95 ->129   weight:123
+95 ->138   weight:171
+95 ->175   weight:183
+95 ->191   weight:150
+95 ->202   weight:38
+95 ->228   weight:135
+96 -> 35   weight:130
+96 -> 42   weight:207
+96 -> 49   weight:217
+96 -> 52   weight:237
+96 ->208   weight:55
+96 ->221   weight:141
+97 ->  5   weight:228
+97 -> 37   weight:184
+97 -> 53   weight:26
+97 -> 56   weight:18
+97 -> 89   weight:198
+97 ->103   weight:144
+97 ->167   weight:147
+97 ->168   weight:33
+97 ->222   weight:147
+97 ->226   weight:223
+97 ->252   weight:23
+98 -> 13   weight:82
+98 -> 20   weight:16
+98 -> 22   weight:253
+98 -> 87   weight:118
+98 ->104   weight:222
+98 ->111   weight:154
+98 ->114   weight:247
+98 ->151   weight:176
+98 ->226   weight:243
+98 ->232   weight:255
+98 ->236   weight:103
+99 -> 22   weight:214
+99 -> 29   weight:201
+99 -> 60   weight:190
+99 -> 78   weight:236
+99 ->103   weight:213
+99 ->133   weight:89
+99 ->152   weight:168
+99 ->187   weight:56
+99 ->191   weight:151
+100->  3   weight:177
+100-> 68   weight:44
+100-> 81   weight:163
+100->197   weight:16
+101-> 18   weight:145
+101-> 41   weight:195
+101->112   weight:195
+101->128   weight:183
+101->130   weight:7
+101->131   weight:54
+101->151   weight:244
+101->160   weight:126
+101->168   weight:154
+101->256   weight:243
+102-> 15   weight:97
+102-> 75   weight:237
+102->161   weight:158
+102->225   weight:200
+102->226   weight:31
+103-> 47   weight:165
+103-> 55   weight:39
+103-> 85   weight:26
+103->107   weight:86
+103->129   weight:227
+103->135   weight:70
+103->184   weight:93
+103->185   weight:53
+103->230   weight:176
+103->240   weight:30
+103->244   weight:153
+104-> 29   weight:50
+104-> 38   weight:36
+104-> 82   weight:256
+104->125   weight:64
+104->151   weight:92
+104->155   weight:2
+104->180   weight:91
+104->188   weight:237
+104->226   weight:218
+104->232   weight:160
+104->248   weight:55
+105-> 22   weight:191
+105-> 29   weight:182
+105-> 41   weight:87
+105-> 42   weight:97
+105-> 68   weight:82
+105-> 93   weight:100
+105->100   weight:151
+105->141   weight:163
+105->189   weight:60
+106->  2   weight:108
+106->  9   weight:204
+106-> 17   weight:29
+106-> 23   weight:139
+106-> 35   weight:253
+106-> 39   weight:249
+106->107   weight:55
+106->136   weight:45
+106->153   weight:176
+106->190   weight:148
+106->215   weight:19
+107-> 44   weight:113
+107-> 93   weight:254
+107-> 98   weight:75
+107->107   weight:236
+107->127   weight:17
+107->130   weight:205
+107->140   weight:60
+107->178   weight:232
+107->226   weight:151
+107->246   weight:228
+107->248   weight:54
+108-> 38   weight:187
+108-> 67   weight:191
+108-> 68   weight:212
+108-> 69   weight:19
+108->106   weight:126
+108->124   weight:233
+108->135   weight:154
+108->173   weight:230
+108->174   weight:47
+108->178   weight:175
+109->  9   weight:4
+109-> 13   weight:27
+109-> 51   weight:118
+109-> 73   weight:187
+109->144   weight:173
+109->147   weight:230
+109->158   weight:90
+109->184   weight:40
+109->198   weight:114
+109->213   weight:249
+109->220   weight:148
+109->223   weight:230
+109->245   weight:145
+109->256   weight:123
+110-> 19   weight:178
+110-> 66   weight:46
+110-> 84   weight:34
+110-> 90   weight:188
+110->251   weight:233
+111->  5   weight:17
+111->  6   weight:99
+111-> 89   weight:194
+111->129   weight:219
+111->133   weight:172
+111->169   weight:26
+111->185   weight:220
+112->  7   weight:159
+112-> 14   weight:29
+112-> 24   weight:186
+112-> 38   weight:62
+112-> 62   weight:137
+112->147   weight:43
+112->166   weight:44
+112->187   weight:201
+112->231   weight:60
+112->238   weight:20
+113-> 65   weight:13
+113-> 83   weight:204
+113->115   weight:97
+113->158   weight:248
+113->174   weight:237
+113->250   weight:223
+114-> 81   weight:77
+114->122   weight:87
+114->162   weight:123
+114->178   weight:217
+114->180   weight:28
+114->189   weight:77
+114->196   weight:248
+114->216   weight:10
+114->230   weight:74
+114->234   weight:213
+115-> 25   weight:52
+115-> 41   weight:118
+115->114   weight:239
+115->215   weight:48
+116->  1   weight:79
+116-> 30   weight:44
+116-> 47   weight:20
+116-> 91   weight:112
+116->124   weight:28
+116->131   weight:151
+117-> 50   weight:239
+117-> 57   weight:100
+117-> 93   weight:118
+117->157   weight:21
+118-> 50   weight:78
+118-> 60   weight:174
+118-> 77   weight:105
+118-> 93   weight:46
+118->120   weight:111
+118->172   weight:173
+118->187   weight:160
+118->210   weight:140
+118->231   weight:246
+119-> 14   weight:134
+119-> 25   weight:137
+119-> 36   weight:53
+119-> 68   weight:70
+119->107   weight:26
+119->108   weight:20
+119->145   weight:195
+119->171   weight:207
+119->224   weight:81
+119->237   weight:97
+119->244   weight:181
+120-> 43   weight:46
+120-> 47   weight:228
+120-> 51   weight:76
+120-> 52   weight:161
+120->177   weight:97
+120->199   weight:228
+120->239   weight:88
+120->246   weight:177
+121-> 13   weight:101
+121->116   weight:173
+121->125   weight:71
+122->  5   weight:241
+122->  9   weight:33
+122-> 10   weight:99
+122-> 11   weight:252
+122-> 12   weight:228
+122-> 57   weight:14
+122-> 61   weight:2
+122-> 76   weight:61
+122-> 77   weight:33
+122-> 98   weight:51
+122->199   weight:80
+122->215   weight:30
+122->233   weight:114
+123-> 40   weight:236
+123->105   weight:145
+123->107   weight:104
+123->178   weight:207
+123->228   weight:240
+124->  4   weight:116
+124-> 33   weight:134
+124-> 56   weight:53
+124-> 93   weight:209
+124->151   weight:72
+124->155   weight:155
+124->216   weight:196
+124->253   weight:79
+125-> 18   weight:76
+125-> 78   weight:34
+125->140   weight:152
+125->237   weight:250
+125->238   weight:255
+126->  3   weight:89
+126-> 12   weight:55
+126-> 32   weight:3
+126-> 52   weight:252
+126->102   weight:164
+126->122   weight:206
+126->155   weight:120
+126->187   weight:177
+126->219   weight:43
+126->252   weight:20
+127-> 25   weight:7
+127->160   weight:141
+127->203   weight:130
+128->  9   weight:131
+128-> 39   weight:20
+128-> 42   weight:-5
+128-> 65   weight:41
+128-> 70   weight:18
+128-> 98   weight:88
+128->125   weight:65
+128->164   weight:15
+128->177   weight:29
+128->210   weight:133
+128->252   weight:12
+129-> 24   weight:53
+129-> 35   weight:235
+129-> 38   weight:107
+129-> 59   weight:107
+129-> 73   weight:1
+129->111   weight:60
+129->117   weight:133
+129->135   weight:219
+129->155   weight:94
+129->165   weight:253
+129->175   weight:91
+129->191   weight:154
+129->200   weight:48
+130-> 19   weight:236
+130-> 52   weight:64
+130-> 74   weight:180
+130->130   weight:134
+130->192   weight:64
+130->207   weight:74
+130->219   weight:109
+131-> 14   weight:91
+131-> 67   weight:118
+131-> 84   weight:186
+131->107   weight:143
+131->176   weight:198
+131->193   weight:190
+131->250   weight:119
+132->  1   weight:236
+132-> 10   weight:167
+132-> 20   weight:222
+132-> 37   weight:145
+132-> 48   weight:212
+132-> 71   weight:204
+132-> 90   weight:9
+132-> 94   weight:157
+132->102   weight:12
+132->189   weight:118
+132->206   weight:162
+132->236   weight:38
+132->242   weight:201
+133-> 69   weight:246
+133->133   weight:78
+133->167   weight:233
+133->224   weight:149
+133->234   weight:182
+134-> 27   weight:239
+134-> 33   weight:244
+134-> 53   weight:9
+134-> 55   weight:96
+134-> 67   weight:250
+135-> 26   weight:54
+135-> 92   weight:195
+135->137   weight:91
+135->163   weight:132
+135->166   weight:42
+135->196   weight:211
+135->203   weight:233
+135->218   weight:121
+135->235   weight:137
+136-> 23   weight:151
+136-> 61   weight:125
+136->108   weight:234
+136->152   weight:98
+136->166   weight:100
+136->169   weight:75
+136->170   weight:13
+136->179   weight:64
+136->183   weight:48
+137-> 78   weight:209
+137-> 94   weight:140
+137->100   weight:42
+137->124   weight:1
+137->145   weight:40
+137->171   weight:136
+137->175   weight:165
+137->201   weight:37
+137->208   weight:235
+137->223   weight:148
+138-> 20   weight:125
+138-> 35   weight:190
+138-> 98   weight:27
+138->135   weight:23
+139-> 35   weight:36
+139-> 67   weight:226
+139-> 92   weight:15
+139->108   weight:236
+139->125   weight:94
+139->139   weight:182
+139->153   weight:42
+139->173   weight:138
+139->225   weight:29
+140-> 78   weight:240
+140->145   weight:141
+140->146   weight:196
+140->163   weight:158
+140->169   weight:35
+140->192   weight:175
+140->204   weight:71
+141-> 12   weight:19
+141-> 72   weight:31
+141->103   weight:154
+141->120   weight:14
+141->175   weight:161
+141->199   weight:216
+141->232   weight:143
+141->235   weight:157
+142-> 13   weight:142
+142-> 43   weight:181
+142-> 51   weight:153
+142-> 53   weight:205
+142-> 75   weight:200
+142-> 83   weight:130
+142->121   weight:75
+142->149   weight:18
+142->189   weight:120
+142->191   weight:23
+142->195   weight:7
+142->244   weight:4
+142->249   weight:141
+143-> 24   weight:221
+143-> 42   weight:33
+143-> 64   weight:255
+143-> 65   weight:80
+143-> 81   weight:205
+143->110   weight:232
+143->124   weight:121
+143->215   weight:27
+144-> 18   weight:207
+144-> 23   weight:246
+144-> 86   weight:152
+144->117   weight:90
+144->169   weight:125
+144->180   weight:248
+144->221   weight:17
+145->  1   weight:191
+145-> 22   weight:62
+145-> 28   weight:242
+145->145   weight:148
+145->162   weight:5
+145->197   weight:237
+145->211   weight:253
+145->251   weight:172
+146-> 36   weight:221
+146-> 54   weight:64
+146-> 63   weight:112
+146-> 66   weight:58
+146-> 79   weight:134
+146-> 97   weight:32
+146->226   weight:41
+146->252   weight:79
+147-> 34   weight:5
+147-> 80   weight:75
+147->116   weight:239
+147->130   weight:158
+147->161   weight:77
+147->193   weight:197
+147->205   weight:140
+147->223   weight:236
+148-> 59   weight:91
+148-> 69   weight:230
+148-> 93   weight:33
+148->109   weight:178
+148->163   weight:225
+148->199   weight:122
+148->205   weight:105
+148->255   weight:238
+149-> 26   weight:135
+149-> 29   weight:166
+149->117   weight:223
+149->129   weight:204
+149->137   weight:81
+149->175   weight:234
+149->195   weight:220
+149->224   weight:124
+149->234   weight:98
+150-> 41   weight:254
+150-> 61   weight:195
+150-> 72   weight:183
+150->145   weight:168
+150->192   weight:54
+150->198   weight:128
+150->225   weight:153
+150->247   weight:162
+150->251   weight:21
+151-> 12   weight:141
+151-> 32   weight:130
+151->180   weight:192
+151->185   weight:186
+152-> 12   weight:120
+152-> 41   weight:122
+152-> 54   weight:143
+152-> 80   weight:2
+152-> 88   weight:238
+152->110   weight:20
+152->140   weight:247
+152->211   weight:99
+152->248   weight:147
+153->  2   weight:15
+153->  5   weight:169
+153-> 42   weight:95
+153-> 55   weight:114
+153-> 68   weight:25
+153->121   weight:109
+153->141   weight:115
+153->213   weight:110
+153->247   weight:69
+154-> 28   weight:40
+154-> 64   weight:242
+154-> 73   weight:7
+154-> 88   weight:169
+154->108   weight:87
+154->223   weight:99
+155-> 26   weight:80
+155-> 50   weight:194
+155->110   weight:148
+155->189   weight:243
+155->208   weight:186
+155->227   weight:9
+156-> 25   weight:43
+156-> 74   weight:27
+156->136   weight:226
+156->138   weight:221
+156->177   weight:88
+156->223   weight:38
+156->233   weight:152
+157-> 23   weight:199
+157-> 30   weight:100
+157-> 31   weight:6
+157-> 53   weight:158
+157-> 72   weight:147
+157-> 85   weight:103
+157-> 88   weight:70
+157-> 91   weight:103
+157-> 94   weight:101
+157->118   weight:57
+157->129   weight:90
+157->174   weight:209
+157->207   weight:164
+157->239   weight:216
+157->256   weight:169
+158-> 89   weight:56
+158->220   weight:47
+159-> 18   weight:144
+159-> 32   weight:181
+159-> 69   weight:119
+159-> 92   weight:91
+159->235   weight:76
+159->249   weight:112
+160-> 13   weight:68
+160-> 26   weight:95
+160-> 60   weight:89
+160-> 89   weight:134
+160->150   weight:6
+160->151   weight:52
+160->159   weight:5
+160->160   weight:200
+160->163   weight:122
+160->199   weight:169
+161->  6   weight:169
+161-> 87   weight:63
+161->101   weight:208
+161->117   weight:194
+161->153   weight:154
+161->168   weight:180
+161->200   weight:195
+161->206   weight:195
+161->216   weight:56
+161->248   weight:107
+161->249   weight:251
+161->252   weight:109
+162-> 39   weight:151
+162-> 56   weight:27
+162-> 75   weight:86
+162-> 79   weight:111
+162-> 94   weight:165
+162-> 99   weight:215
+162->105   weight:53
+162->172   weight:219
+162->180   weight:91
+162->210   weight:104
+162->219   weight:29
+162->221   weight:218
+162->248   weight:251
+163-> 10   weight:172
+163-> 75   weight:55
+163->113   weight:229
+163->157   weight:5
+163->166   weight:31
+164->  4   weight:228
+164->  7   weight:93
+164->  9   weight:187
+164-> 62   weight:59
+164->102   weight:53
+164->154   weight:3
+164->251   weight:6
+165-> 28   weight:20
+165-> 32   weight:139
+165-> 53   weight:8
+165->117   weight:219
+165->127   weight:43
+165->128   weight:62
+165->131   weight:39
+165->135   weight:174
+165->163   weight:201
+165->192   weight:142
+165->212   weight:245
+165->232   weight:19
+166-> 21   weight:145
+166-> 25   weight:85
+166-> 42   weight:175
+166-> 91   weight:32
+166->190   weight:252
+166->196   weight:157
+166->231   weight:184
+167-> 11   weight:8
+167-> 19   weight:-7
+167-> 93   weight:57
+167->204   weight:93
+168-> 18   weight:83
+168-> 22   weight:15
+168-> 23   weight:237
+168-> 66   weight:128
+168-> 99   weight:149
+168->185   weight:85
+168->198   weight:42
+168->226   weight:219
+168->251   weight:255
+169-> 47   weight:74
+169-> 58   weight:225
+169-> 77   weight:43
+169->172   weight:236
+169->175   weight:76
+169->206   weight:239
+169->226   weight:16
+169->238   weight:115
+170-> 23   weight:198
+170-> 35   weight:96
+170->131   weight:41
+170->133   weight:14
+170->146   weight:149
+170->164   weight:255
+170->195   weight:223
+170->216   weight:118
+170->228   weight:1
+171->  3   weight:136
+171-> 21   weight:251
+171-> 67   weight:34
+171-> 75   weight:94
+171->106   weight:36
+171->142   weight:56
+171->183   weight:55
+171->249   weight:59
+172-> 11   weight:99
+172-> 46   weight:35
+172->117   weight:55
+172->133   weight:48
+172->247   weight:92
+173->  6   weight:130
+173-> 22   weight:199
+173-> 79   weight:215
+173-> 96   weight:185
+173->172   weight:214
+173->185   weight:223
+173->192   weight:55
+173->225   weight:154
+173->228   weight:90
+173->231   weight:50
+174->  9   weight:179
+174-> 87   weight:175
+174-> 98   weight:84
+174->135   weight:236
+174->177   weight:244
+175-> 44   weight:131
+175-> 47   weight:111
+175-> 77   weight:240
+175->123   weight:195
+175->165   weight:141
+175->182   weight:30
+175->210   weight:40
+175->211   weight:200
+175->250   weight:149
+176-> 18   weight:236
+176->153   weight:90
+176->164   weight:53
+176->193   weight:31
+176->232   weight:104
+176->238   weight:88
+177-> 29   weight:158
+177-> 34   weight:91
+177-> 88   weight:230
+177->123   weight:140
+177->127   weight:76
+177->149   weight:116
+178->  4   weight:151
+178-> 28   weight:246
+178-> 49   weight:1
+178-> 82   weight:135
+178-> 87   weight:143
+178->101   weight:114
+178->169   weight:174
+178->236   weight:111
+179-> 23   weight:150
+179-> 63   weight:113
+179-> 94   weight:95
+179->123   weight:173
+179->126   weight:100
+179->128   weight:243
+179->133   weight:43
+179->180   weight:147
+179->183   weight:230
+179->224   weight:154
+179->233   weight:223
+179->253   weight:113
+180-> 49   weight:231
+180-> 67   weight:115
+180-> 80   weight:113
+180-> 91   weight:205
+180->129   weight:112
+180->161   weight:16
+180->164   weight:221
+180->198   weight:195
+180->206   weight:5
+180->212   weight:42
+180->219   weight:106
+181-> 11   weight:3
+181->109   weight:72
+181->149   weight:237
+181->191   weight:92
+181->198   weight:104
+181->239   weight:173
+181->243   weight:147
+181->246   weight:167
+182-> 12   weight:153
+182-> 25   weight:193
+182-> 80   weight:1
+182->116   weight:226
+182->184   weight:96
+182->196   weight:174
+183-> 20   weight:95
+183-> 25   weight:126
+183->157   weight:99
+183->203   weight:77
+184-> 13   weight:48
+184-> 19   weight:256
+184-> 20   weight:77
+184-> 21   weight:138
+184-> 58   weight:115
+184-> 69   weight:104
+184->118   weight:101
+184->240   weight:216
+184->246   weight:184
+185->  2   weight:87
+185->  9   weight:150
+185-> 22   weight:125
+185-> 50   weight:157
+185-> 85   weight:228
+185->170   weight:6
+185->216   weight:29
+185->243   weight:124
+186-> 43   weight:79
+186-> 71   weight:89
+186-> 73   weight:48
+186->103   weight:195
+186->114   weight:117
+186->172   weight:208
+186->184   weight:143
+186->195   weight:117
+186->217   weight:232
+186->219   weight:127
+186->237   weight:206
+187-> 44   weight:240
+187-> 61   weight:186
+187->141   weight:148
+187->164   weight:158
+187->177   weight:222
+187->194   weight:155
+187->199   weight:26
+187->236   weight:139
+188-> 80   weight:160
+188-> 93   weight:72
+188->123   weight:58
+188->167   weight:216
+188->203   weight:100
+189-> 12   weight:127
+189-> 17   weight:191
+189-> 30   weight:121
+189-> 56   weight:33
+189-> 63   weight:31
+189->123   weight:92
+189->124   weight:237
+189->127   weight:108
+189->178   weight:42
+189->180   weight:155
+189->206   weight:195
+189->222   weight:101
+189->230   weight:249
+189->244   weight:147
+190->  7   weight:44
+190-> 12   weight:154
+190-> 71   weight:155
+190-> 98   weight:13
+190->130   weight:15
+190->174   weight:233
+190->184   weight:224
+190->186   weight:238
+190->221   weight:175
+190->223   weight:81
+190->250   weight:193
+191->  2   weight:206
+191-> 51   weight:238
+191-> 69   weight:13
+191-> 91   weight:31
+191->101   weight:5
+191->111   weight:28
+191->140   weight:119
+191->209   weight:220
+191->217   weight:13
+192->  3   weight:53
+192-> 20   weight:138
+192-> 67   weight:70
+192-> 70   weight:246
+192-> 72   weight:28
+192->199   weight:2
+192->250   weight:243
+193-> 54   weight:47
+193->169   weight:239
+193->172   weight:104
+193->181   weight:169
+193->190   weight:168
+193->200   weight:130
+193->228   weight:181
+193->239   weight:228
+194->  7   weight:25
+194-> 26   weight:223
+194-> 31   weight:256
+194-> 33   weight:218
+194-> 84   weight:116
+194->134   weight:252
+194->194   weight:220
+194->239   weight:249
+195-> 20   weight:180
+195-> 27   weight:191
+195-> 35   weight:100
+195-> 53   weight:200
+195->158   weight:244
+195->179   weight:252
+195->210   weight:98
+195->232   weight:77
+195->236   weight:246
+195->254   weight:200
+196-> 11   weight:84
+196-> 41   weight:140
+196-> 91   weight:134
+196->142   weight:65
+196->154   weight:189
+196->163   weight:189
+196->168   weight:209
+196->237   weight:70
+196->255   weight:118
+197-> 10   weight:116
+197-> 61   weight:92
+197->117   weight:169
+197->122   weight:63
+197->244   weight:177
+198->100   weight:86
+198->131   weight:190
+198->215   weight:5
+199-> 11   weight:33
+199-> 31   weight:23
+199-> 36   weight:65
+199-> 80   weight:204
+199->128   weight:178
+199->162   weight:178
+199->173   weight:215
+199->187   weight:185
+199->224   weight:1
+199->235   weight:236
+200-> 43   weight:107
+200-> 76   weight:93
+200->136   weight:3
+200->139   weight:86
+200->147   weight:9
+200->193   weight:175
+200->247   weight:182
+200->249   weight:48
+201-> 43   weight:178
+201-> 45   weight:136
+201-> 76   weight:205
+201->103   weight:61
+201->114   weight:137
+201->117   weight:163
+201->158   weight:133
+201->175   weight:205
+202-> 31   weight:13
+202-> 61   weight:183
+202->187   weight:213
+203-> 45   weight:18
+203-> 54   weight:51
+203->113   weight:110
+203->195   weight:132
+203->200   weight:96
+203->235   weight:70
+203->248   weight:213
+203->254   weight:63
+204->  4   weight:81
+204->  5   weight:190
+204-> 41   weight:-4
+204-> 50   weight:226
+204-> 59   weight:238
+204-> 64   weight:39
+204->100   weight:234
+204->128   weight:51
+204->168   weight:3
+204->170   weight:110
+204->195   weight:33
+204->238   weight:249
+204->249   weight:228
+205->103   weight:86
+205->158   weight:116
+205->197   weight:184
+205->224   weight:61
+205->248   weight:242
+206->  9   weight:246
+206-> 87   weight:12
+206-> 98   weight:206
+206->151   weight:50
+206->156   weight:230
+206->173   weight:142
+206->209   weight:41
+206->245   weight:247
+206->255   weight:118
+207-> 82   weight:136
+207->114   weight:163
+207->133   weight:21
+207->153   weight:254
+207->190   weight:71
+207->246   weight:191
+208-> 98   weight:3
+208->114   weight:30
+208->122   weight:109
+208->136   weight:49
+208->213   weight:72
+208->235   weight:215
+208->244   weight:198
+208->249   weight:56
+209-> 23   weight:98
+209-> 64   weight:198
+209->103   weight:82
+209->111   weight:182
+209->121   weight:115
+209->124   weight:74
+209->133   weight:66
+209->196   weight:22
+209->197   weight:134
+209->201   weight:5
+210-> 19   weight:51
+210-> 25   weight:174
+210-> 35   weight:156
+210-> 47   weight:48
+210-> 89   weight:214
+210->128   weight:180
+210->146   weight:193
+210->161   weight:175
+210->228   weight:207
+210->248   weight:29
+211-> 38   weight:138
+211->121   weight:222
+211->214   weight:91
+211->216   weight:118
+211->219   weight:247
+212->  9   weight:34
+212-> 79   weight:104
+212->159   weight:176
+212->164   weight:37
+212->183   weight:155
+212->248   weight:234
+213-> 39   weight:249
+213-> 62   weight:188
+213-> 69   weight:220
+213-> 81   weight:147
+213-> 99   weight:145
+213->154   weight:235
+213->160   weight:6
+214-> 29   weight:220
+214-> 58   weight:-2
+214-> 70   weight:188
+214-> 97   weight:140
+214->145   weight:42
+214->150   weight:72
+214->157   weight:184
+214->219   weight:137
+215->  1   weight:136
+215-> 20   weight:208
+215-> 29   weight:83
+215->140   weight:159
+215->218   weight:139
+215->251   weight:34
+216-> 54   weight:163
+216-> 91   weight:120
+216->101   weight:92
+216->109   weight:126
+216->129   weight:125
+216->134   weight:86
+216->169   weight:42
+216->200   weight:110
+216->218   weight:191
+217->  1   weight:184
+217->  7   weight:100
+217-> 53   weight:179
+217-> 63   weight:130
+217-> 92   weight:213
+217->122   weight:218
+217->155   weight:249
+217->187   weight:89
+217->218   weight:51
+217->236   weight:161
+217->239   weight:231
+217->252   weight:75
+218-> 37   weight:145
+218->102   weight:15
+218->169   weight:106
+218->177   weight:110
+218->180   weight:113
+218->193   weight:164
+218->213   weight:63
+219-> 57   weight:115
+219-> 75   weight:246
+219->174   weight:140
+220->  3   weight:79
+220-> 13   weight:14
+220-> 18   weight:128
+220-> 32   weight:250
+220-> 41   weight:133
+220-> 50   weight:179
+220-> 81   weight:145
+220-> 91   weight:35
+220->113   weight:38
+220->147   weight:149
+220->151   weight:66
+220->154   weight:81
+220->209   weight:33
+220->256   weight:117
+221-> 13   weight:254
+221-> 15   weight:190
+221-> 21   weight:177
+221-> 85   weight:240
+221->100   weight:256
+221->148   weight:215
+221->151   weight:37
+221->211   weight:211
+221->232   weight:163
+221->256   weight:255
+222-> 49   weight:106
+222->109   weight:22
+222->122   weight:46
+222->147   weight:23
+222->205   weight:177
+222->230   weight:45
+223-> 23   weight:242
+223-> 32   weight:78
+223-> 34   weight:82
+223-> 49   weight:208
+223-> 83   weight:79
+223-> 91   weight:122
+223->139   weight:60
+223->153   weight:240
+223->186   weight:136
+223->230   weight:196
+223->250   weight:175
+224-> 14   weight:160
+224-> 23   weight:98
+224-> 44   weight:192
+224-> 73   weight:214
+224-> 88   weight:243
+224->107   weight:213
+224->120   weight:203
+224->165   weight:13
+224->170   weight:167
+224->185   weight:1
+224->208   weight:214
+225-> 12   weight:215
+225-> 40   weight:217
+225-> 69   weight:179
+225-> 77   weight:242
+225->101   weight:220
+225->165   weight:3
+225->184   weight:213
+225->186   weight:46
+225->189   weight:249
+225->225   weight:21
+225->228   weight:140
+225->238   weight:44
+226-> 76   weight:115
+226->115   weight:56
+226->133   weight:45
+226->152   weight:185
+226->200   weight:72
+226->218   weight:221
+226->235   weight:21
+227-> 18   weight:129
+227-> 43   weight:67
+227-> 54   weight:95
+227->107   weight:105
+227->115   weight:140
+227->125   weight:144
+227->169   weight:233
+227->195   weight:9
+227->250   weight:122
+228->  1   weight:143
+228-> 79   weight:174
+228->100   weight:154
+228->101   weight:202
+228->232   weight:73
+228->249   weight:143
+229->  9   weight:187
+229-> 12   weight:20
+229-> 29   weight:10
+229-> 93   weight:129
+229->150   weight:94
+229->176   weight:214
+229->193   weight:55
+230-> 21   weight:133
+230-> 28   weight:164
+230-> 49   weight:140
+230-> 65   weight:110
+230-> 74   weight:146
+230->114   weight:210
+230->139   weight:151
+230->150   weight:98
+230->151   weight:124
+230->162   weight:173
+230->236   weight:121
+230->253   weight:233
+231-> 23   weight:8
+231-> 31   weight:206
+231->124   weight:217
+231->156   weight:162
+232-> 11   weight:65
+232-> 52   weight:115
+232-> 68   weight:71
+232-> 78   weight:79
+232->109   weight:7
+232->122   weight:105
+232->143   weight:250
+232->182   weight:158
+233-> 32   weight:160
+233-> 64   weight:155
+233-> 92   weight:161
+233->121   weight:255
+233->166   weight:251
+233->167   weight:97
+233->182   weight:233
+233->197   weight:116
+233->204   weight:218
+233->217   weight:85
+233->223   weight:33
+233->247   weight:83
+233->253   weight:165
+234->  2   weight:112
+234->  5   weight:155
+234->189   weight:124
+234->204   weight:250
+234->209   weight:10
+234->221   weight:129
+234->236   weight:178
+235->193   weight:119
+235->205   weight:181
+235->220   weight:78
+235->251   weight:202
+236-> 10   weight:96
+236-> 24   weight:256
+236-> 42   weight:115
+236-> 60   weight:61
+236-> 74   weight:31
+236-> 90   weight:114
+236-> 92   weight:163
+236->144   weight:223
+236->162   weight:47
+236->180   weight:21
+237-> 40   weight:208
+237-> 99   weight:167
+237->100   weight:49
+237->102   weight:46
+237->105   weight:92
+237->122   weight:33
+237->149   weight:46
+237->186   weight:202
+238->  2   weight:6
+238-> 30   weight:179
+238-> 33   weight:182
+238-> 54   weight:163
+238->106   weight:143
+238->135   weight:20
+238->192   weight:86
+238->218   weight:164
+238->220   weight:87
+238->236   weight:240
+239-> 39   weight:23
+239-> 53   weight:100
+239-> 63   weight:60
+239->133   weight:217
+239->184   weight:166
+239->204   weight:225
+239->211   weight:44
+239->241   weight:41
+240-> 15   weight:88
+240-> 54   weight:60
+240->109   weight:95
+240->126   weight:22
+240->154   weight:7
+240->159   weight:245
+241-> 37   weight:37
+241-> 55   weight:68
+241-> 89   weight:180
+241-> 97   weight:218
+241->134   weight:183
+241->179   weight:54
+241->239   weight:224
+242->  2   weight:31
+242-> 67   weight:104
+242->125   weight:84
+242->163   weight:15
+242->170   weight:187
+242->179   weight:81
+242->190   weight:223
+242->192   weight:135
+242->240   weight:10
+243-> 15   weight:197
+243-> 86   weight:-5
+243->142   weight:2
+243->207   weight:121
+243->228   weight:2
+243->247   weight:208
+243->251   weight:207
+244->  2   weight:34
+244-> 63   weight:200
+244->105   weight:152
+244->155   weight:52
+244->171   weight:23
+244->193   weight:193
+244->199   weight:246
+244->234   weight:170
+244->242   weight:210
+245-> 16   weight:118
+245-> 32   weight:34
+245-> 95   weight:48
+245->114   weight:250
+245->128   weight:62
+245->154   weight:137
+245->155   weight:193
+245->193   weight:17
+245->203   weight:122
+245->242   weight:115
+245->248   weight:192
+245->256   weight:194
+246-> 11   weight:95
+246-> 67   weight:174
+246->147   weight:213
+246->172   weight:96
+246->209   weight:105
+246->219   weight:6
+247-> 23   weight:56
+247-> 86   weight:233
+247->116   weight:72
+247->135   weight:187
+247->190   weight:243
+247->198   weight:90
+247->229   weight:202
+247->235   weight:149
+248-> 22   weight:187
+248-> 25   weight:162
+248-> 63   weight:81
+248->120   weight:77
+248->122   weight:218
+248->132   weight:154
+248->147   weight:174
+248->231   weight:123
+248->255   weight:159
+249->  1   weight:210
+249-> 22   weight:54
+249-> 43   weight:120
+249-> 90   weight:31
+249->149   weight:60
+249->185   weight:167
+249->204   weight:57
+249->226   weight:198
+250-> 28   weight:203
+250-> 45   weight:90
+250-> 84   weight:111
+250->115   weight:91
+250->125   weight:240
+250->140   weight:68
+251->  6   weight:10
+251-> 32   weight:95
+251-> 79   weight:11
+251-> 82   weight:191
+251->141   weight:185
+251->155   weight:29
+251->182   weight:129
+251->209   weight:206
+251->239   weight:134
+252-> 29   weight:256
+252-> 30   weight:143
+252-> 47   weight:226
+252-> 98   weight:135
+252->118   weight:49
+252->129   weight:53
+252->153   weight:93
+252->226   weight:19
+253->  7   weight:194
+253-> 13   weight:74
+253->117   weight:150
+253->132   weight:60
+253->133   weight:88
+253->156   weight:162
+253->181   weight:27
+254->  8   weight:55
+254-> 17   weight:185
+254-> 40   weight:179
+254-> 66   weight:1
+254->142   weight:144
+254->143   weight:32
+254->144   weight:81
+254->163   weight:192
+254->206   weight:239
+254->210   weight:1
+255-> 48   weight:154
+255-> 53   weight:10
+255-> 60   weight:213
+255-> 72   weight:177
+255->103   weight:228
+255->248   weight:102
+256-> 52   weight:148
+256-> 66   weight:213
+256-> 81   weight:168
+256->148   weight:46
+256->169   weight:115
+256->180   weight:30
+256->236   weight:42
